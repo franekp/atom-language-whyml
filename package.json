@@ -1,16 +1,18 @@
 {
   "name": "language-whyml",
   "main": "./lib/language-whyml",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "WhyML language support",
   "keywords": [
-    "why", "whyml", "functional", "verification"
+    "why",
+    "whyml",
+    "functional",
+    "verification"
   ],
   "repository": "https://github.com/franekp/atom-language-whyml",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
